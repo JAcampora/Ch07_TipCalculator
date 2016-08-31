@@ -1,0 +1,465 @@
+[
+    {
+        "outputFile": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 44,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 39,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 39,
+                        "endOffset": 181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 39,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 346,
+                    "endColumn": 51,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 32,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endColumn": 57,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 38,
+                    "endOffset": 523
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 528,
+                    "endColumn": 38,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 50,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 44,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endColumn": 55,
+                    "endOffset": 714
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 719,
+                    "endColumn": 65,
+                    "endOffset": 780
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 785,
+                    "endColumn": 48,
+                    "endOffset": 829
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 834,
+                    "endColumn": 41,
+                    "endOffset": 871
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 876,
+                    "endColumn": 41,
+                    "endOffset": 913
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 918,
+                    "endColumn": 45,
+                    "endOffset": 959
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 964,
+                    "endColumn": 51,
+                    "endOffset": 1011
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1016,
+                    "endColumn": 44,
+                    "endOffset": 1056
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1061,
+                    "endColumn": 48,
+                    "endOffset": 1105
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1110,
+                    "endColumn": 43,
+                    "endOffset": 1149
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1154,
+                    "endColumn": 53,
+                    "endOffset": 1203
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1208,
+                    "endColumn": 72,
+                    "endOffset": 1276
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1281,
+                    "endColumn": 46,
+                    "endOffset": 1323
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1328,
+                    "endColumn": 52,
+                    "endOffset": 1376
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1381,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1505
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1510,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 1620
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1625,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 1759
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1764,
+                    "endColumn": 53,
+                    "endOffset": 1813
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1818,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 2382
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2387,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 2475
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2480,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 2572
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2577,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 2712
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2717,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 2967
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1209,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2972,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 3080
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3085,
+                    "endLine": 72,
+                    "endColumn": 12,
+                    "endOffset": 3235
+                },
+                "from": {
+                    "file": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

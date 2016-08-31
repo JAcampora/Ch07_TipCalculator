@@ -1,0 +1,8 @@
+CHANGED,F:\Documents\School\Coleman\COM262\AndroidStudioProjects\Ch07_TipCalculator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\acampora\Ch07_TipCalculator\R$layout$override.class
+CHANGED,F:\Documents\School\Coleman\COM262\AndroidStudioProjects\Ch07_TipCalculator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\acampora\Ch07_TipCalculator\R$id$override.class
+CHANGED,F:\Documents\School\Coleman\COM262\AndroidStudioProjects\Ch07_TipCalculator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\acampora\Ch07_TipCalculator\R$menu$override.class
+CHANGED,F:\Documents\School\Coleman\COM262\AndroidStudioProjects\Ch07_TipCalculator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\acampora\Ch07_TipCalculator\R$style$override.class
+CHANGED,F:\Documents\School\Coleman\COM262\AndroidStudioProjects\Ch07_TipCalculator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\acampora\Ch07_TipCalculator\R$string$override.class
+CHANGED,F:\Documents\School\Coleman\COM262\AndroidStudioProjects\Ch07_TipCalculator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\acampora\Ch07_TipCalculator\R$drawable$override.class
+CHANGED,F:\Documents\School\Coleman\COM262\AndroidStudioProjects\Ch07_TipCalculator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\acampora\Ch07_TipCalculator\R$color$override.class
+CHANGED,F:\Documents\School\Coleman\COM262\AndroidStudioProjects\Ch07_TipCalculator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

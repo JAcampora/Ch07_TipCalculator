@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\restaurant.jpg",
+        "source": "F:\\Documents\\School\\Coleman\\COM262\\AndroidStudioProjects\\Ch07_TipCalculator\\app\\src\\main\\res\\drawable-ldpi\\restaurant.jpg"
+    }
+]

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="4808709377634"
+    token="1646251197848106487" >
+
+    <task
+        name="javac"
+        duration="326" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="195" />
+    <task
+        name="verifier"
+        duration="26" />
+
+    <artifact
+        location="F:\Documents\School\Coleman\COM262\AndroidStudioProjects\Ch07_TipCalculator\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="F:\Documents\School\Coleman\COM262\AndroidStudioProjects\Ch07_TipCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+
+    <build timestamp="1213316885918" >
+        <artifact
+            location="F:\Documents\School\Coleman\COM262\AndroidStudioProjects\Ch07_TipCalculator\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="4808709377634" >
+        <artifact
+            location="F:\Documents\School\Coleman\COM262\AndroidStudioProjects\Ch07_TipCalculator\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="F:\Documents\School\Coleman\COM262\AndroidStudioProjects\Ch07_TipCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
